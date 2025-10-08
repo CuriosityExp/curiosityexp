@@ -27,6 +27,12 @@ Here are some of the technologies I enjoy working with:
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack--tools">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack--tools">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
@@ -45,9 +51,9 @@ Here are some of the technologies I enjoy working with:
     </td>
      <td align="center" width="96">
       <a href="#-my-tech-stack--tools">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>React
+      <br>Next.js
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack--tools">
@@ -64,21 +70,19 @@ Here are some of the technologies I enjoy working with:
   </tr>
 </table>
 
-*You can find more icons at [Devicon](https://devicon.dev/) to customize your stack.*
 
 ---
 
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CuriosityExp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CuriosityExp&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="Your GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuriosityExp&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuriosityExp&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </p>
 
-*Customize your own stats cards at [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).*
 
 ---
 
