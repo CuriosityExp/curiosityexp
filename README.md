@@ -4,14 +4,12 @@
 
 I'm a Full-Stack Developer  based in Jakarta. I'm passionate about building app that connects people and solve their problems.
 
-- 🔭 I’m currently working on a [Project Name] that [briefly describe the project].
-- 🌱 I’m currently learning [A technology or skill you're learning].
-- 👯 I’m looking to collaborate on [Types of projects, e.g., open-source projects related to AI].
-- 🤔 I’m looking for help with [A concept or technology you're struggling with].
+- 🌱 I’m currently learning LLM's and Python.
+- 👯 I’m looking to collaborate on open-source projects related to AI.
+- 🤔 I’m looking for help with LLM's.
 - 💬 Ask me about anything related to TypeScript, PHP, Python, PostgreSQL.
 - 📫 How to reach me: [daniel@danielelisandro.com]
-- 😄 Pronouns: [He/Him, She/Her, They/Them, etc.]
-- ⚡ Fun fact: [A fun fact about you!]
+- 😄 Pronouns: He/Him
 
 ---
 
